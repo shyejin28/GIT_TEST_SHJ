@@ -9,6 +9,3 @@ venv/
 *.log
 .DS_Store
 Thumbs.db
-
-# 로컬 스크래치 (무작위 테스트용)
-ff.txt
