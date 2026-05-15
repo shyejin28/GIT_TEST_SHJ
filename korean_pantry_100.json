@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "쌀",
+    "category": "곡물",
+    "unit": "kg",
+    "image_url": "https://picsum.photos/seed/kr-pantry-1/400/400"
+  },
+  {
+    "id": 2,
+    "name": "현미",
+    "category": "곡물",
+    "unit": "kg",
+    "image_url": "https://picsum.photos/seed/kr-pantry-2/400/400"
+  },
+  {
+    "id": 3,
+    "name": "찹쌀",
+    "category": "곡물",
+    "unit": "kg",
+    "image_url": "https://picsum.photos/seed/kr-pantry-3/400/400"
+  },
+  {
+    "id": 4,
+    "name": "밀가루",
+    "category": "곡물",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-4/400/400"
+  },
+  {
+    "id": 5,
+    "name": "부침가루",
+    "category": "곡물",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-5/400/400"
+  },
+  {
+    "id": 6,
+    "name": "라면",
+    "category": "면류",
+    "unit": "봉",
+    "image_url": "https://picsum.photos/seed/kr-pantry-6/400/400"
+  },
+  {
+    "id": 7,
+    "name": "소면",
+    "category": "면류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-7/400/400"
+  },
+  {
+    "id": 8,
+    "name": "당면",
+    "category": "면류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-8/400/400"
+  },
+  {
+    "id": 9,
+    "name": "칼국수면",
+    "category": "면류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-9/400/400"
+  },
+  {
+    "id": 10,
+    "name": "쫄면",
+    "category": "면류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-10/400/400"
+  },
+  {
+    "id": 11,
+    "name": "배추",
+    "category": "채소",
+    "unit": "포기",
+    "image_url": "https://picsum.photos/seed/kr-pantry-11/400/400"
+  },
+  {
+    "id": 12,
+    "name": "무",
+    "category": "채소",
+    "unit": "개",
+    "image_url": "https://picsum.photos/seed/kr-pantry-12/400/400"
+  },
+  {
+    "id": 13,
+    "name": "양파",
+    "category": "채소",
+    "unit": "개",
+    "image_url": "https://picsum.photos/seed/kr-pantry-13/400/400"
+  },
+  {
+    "id": 14,
+    "name": "대파",
+    "category": "채소",
+    "unit": "단",
+    "image_url": "https://picsum.photos/seed/kr-pantry-14/400/400"
+  },
+  {
+    "id": 15,
+    "name": "쪽파",
+    "category": "채소",
+    "unit": "단",
+    "image_url": "https://picsum.photos/seed/kr-pantry-15/400/400"
+  },
+  {
+    "id": 16,
+    "name": "감자",
+    "category": "채소",
+    "unit": "개",
+    "image_url": "https://picsum.photos/seed/kr-pantry-16/400/400"
+  },
+  {
+    "id": 17,
+    "name": "당근",
+    "category": "채소",
+    "unit": "개",
+    "image_url": "https://picsum.photos/seed/kr-pantry-17/400/400"
+  },
+  {
+    "id": 18,
+    "name": "애호박",
+    "category": "채소",
+    "unit": "개",
+    "image_url": "https://picsum.photos/seed/kr-pantry-18/400/400"
+  },
+  {
+    "id": 19,
+    "name": "오이",
+    "category": "채소",
+    "unit": "개",
+    "image_url": "https://picsum.photos/seed/kr-pantry-19/400/400"
+  },
+  {
+    "id": 20,
+    "name": "토마토",
+    "category": "채소",
+    "unit": "개",
+    "image_url": "https://picsum.photos/seed/kr-pantry-20/400/400"
+  },
+  {
+    "id": 21,
+    "name": "파프리카",
+    "category": "채소",
+    "unit": "개",
+    "image_url": "https://picsum.photos/seed/kr-pantry-21/400/400"
+  },
+  {
+    "id": 22,
+    "name": "가지",
+    "category": "채소",
+    "unit": "개",
+    "image_url": "https://picsum.photos/seed/kr-pantry-22/400/400"
+  },
+  {
+    "id": 23,
+    "name": "양배추",
+    "category": "채소",
+    "unit": "통",
+    "image_url": "https://picsum.photos/seed/kr-pantry-23/400/400"
+  },
+  {
+    "id": 24,
+    "name": "브로콜리",
+    "category": "채소",
+    "unit": "봉",
+    "image_url": "https://picsum.photos/seed/kr-pantry-24/400/400"
+  },
+  {
+    "id": 25,
+    "name": "시금치",
+    "category": "채소",
+    "unit": "단",
+    "image_url": "https://picsum.photos/seed/kr-pantry-25/400/400"
+  },
+  {
+    "id": 26,
+    "name": "콩나물",
+    "category": "채소",
+    "unit": "봉",
+    "image_url": "https://picsum.photos/seed/kr-pantry-26/400/400"
+  },
+  {
+    "id": 27,
+    "name": "숙주나물",
+    "category": "채소",
+    "unit": "봉",
+    "image_url": "https://picsum.photos/seed/kr-pantry-27/400/400"
+  },
+  {
+    "id": 28,
+    "name": "미나리",
+    "category": "채소",
+    "unit": "단",
+    "image_url": "https://picsum.photos/seed/kr-pantry-28/400/400"
+  },
+  {
+    "id": 29,
+    "name": "상추",
+    "category": "채소",
+    "unit": "봉",
+    "image_url": "https://picsum.photos/seed/kr-pantry-29/400/400"
+  },
+  {
+    "id": 30,
+    "name": "깻잎",
+    "category": "채소",
+    "unit": "팩",
+    "image_url": "https://picsum.photos/seed/kr-pantry-30/400/400"
+  },
+  {
+    "id": 31,
+    "name": "풋고추",
+    "category": "채소",
+    "unit": "봉",
+    "image_url": "https://picsum.photos/seed/kr-pantry-31/400/400"
+  },
+  {
+    "id": 32,
+    "name": "청양고추",
+    "category": "채소",
+    "unit": "봉",
+    "image_url": "https://picsum.photos/seed/kr-pantry-32/400/400"
+  },
+  {
+    "id": 33,
+    "name": "느타리버섯",
+    "category": "채소",
+    "unit": "팩",
+    "image_url": "https://picsum.photos/seed/kr-pantry-33/400/400"
+  },
+  {
+    "id": 34,
+    "name": "팽이버섯",
+    "category": "채소",
+    "unit": "팩",
+    "image_url": "https://picsum.photos/seed/kr-pantry-34/400/400"
+  },
+  {
+    "id": 35,
+    "name": "양송이버섯",
+    "category": "채소",
+    "unit": "팩",
+    "image_url": "https://picsum.photos/seed/kr-pantry-35/400/400"
+  },
+  {
+    "id": 36,
+    "name": "마늘",
+    "category": "채소",
+    "unit": "통",
+    "image_url": "https://picsum.photos/seed/kr-pantry-36/400/400"
+  },
+  {
+    "id": 37,
+    "name": "생강",
+    "category": "채소",
+    "unit": "개",
+    "image_url": "https://picsum.photos/seed/kr-pantry-37/400/400"
+  },
+  {
+    "id": 38,
+    "name": "돼지고기 앞다리살",
+    "category": "육류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-38/400/400"
+  },
+  {
+    "id": 39,
+    "name": "돼지고기 목살",
+    "category": "육류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-39/400/400"
+  },
+  {
+    "id": 40,
+    "name": "돼지고기 삼겹살",
+    "category": "육류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-40/400/400"
+  },
+  {
+    "id": 41,
+    "name": "소고기 국거리",
+    "category": "육류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-41/400/400"
+  },
+  {
+    "id": 42,
+    "name": "소고기 등심",
+    "category": "육류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-42/400/400"
+  },
+  {
+    "id": 43,
+    "name": "소고기 불고기용",
+    "category": "육류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-43/400/400"
+  },
+  {
+    "id": 44,
+    "name": "닭가슴살",
+    "category": "육류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-44/400/400"
+  },
+  {
+    "id": 45,
+    "name": "닭다리",
+    "category": "육류",
+    "unit": "팩",
+    "image_url": "https://picsum.photos/seed/kr-pantry-45/400/400"
+  },
+  {
+    "id": 46,
+    "name": "닭봉",
+    "category": "육류",
+    "unit": "팩",
+    "image_url": "https://picsum.photos/seed/kr-pantry-46/400/400"
+  },
+  {
+    "id": 47,
+    "name": "베이컨",
+    "category": "육류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-47/400/400"
+  },
+  {
+    "id": 48,
+    "name": "소시지",
+    "category": "육류",
+    "unit": "봉",
+    "image_url": "https://picsum.photos/seed/kr-pantry-48/400/400"
+  },
+  {
+    "id": 49,
+    "name": "다진돼지고기",
+    "category": "육류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-49/400/400"
+  },
+  {
+    "id": 50,
+    "name": "계란",
+    "category": "유제품·난류",
+    "unit": "판",
+    "image_url": "https://picsum.photos/seed/kr-pantry-50/400/400"
+  },
+  {
+    "id": 51,
+    "name": "우유",
+    "category": "유제품·난류",
+    "unit": "ml",
+    "image_url": "https://picsum.photos/seed/kr-pantry-51/400/400"
+  },
+  {
+    "id": 52,
+    "name": "슬라이스 치즈",
+    "category": "유제품·난류",
+    "unit": "장",
+    "image_url": "https://picsum.photos/seed/kr-pantry-52/400/400"
+  },
+  {
+    "id": 53,
+    "name": "버터",
+    "category": "유제품·난류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-53/400/400"
+  },
+  {
+    "id": 54,
+    "name": "요거트",
+    "category": "유제품·난류",
+    "unit": "개",
+    "image_url": "https://picsum.photos/seed/kr-pantry-54/400/400"
+  },
+  {
+    "id": 55,
+    "name": "두부",
+    "category": "가공두부",
+    "unit": "모",
+    "image_url": "https://picsum.photos/seed/kr-pantry-55/400/400"
+  },
+  {
+    "id": 56,
+    "name": "순두부",
+    "category": "가공두부",
+    "unit": "팩",
+    "image_url": "https://picsum.photos/seed/kr-pantry-56/400/400"
+  },
+  {
+    "id": 57,
+    "name": "고등어",
+    "category": "수산물",
+    "unit": "마리",
+    "image_url": "https://picsum.photos/seed/kr-pantry-57/400/400"
+  },
+  {
+    "id": 58,
+    "name": "갈치",
+    "category": "수산물",
+    "unit": "마리",
+    "image_url": "https://picsum.photos/seed/kr-pantry-58/400/400"
+  },
+  {
+    "id": 59,
+    "name": "오징어",
+    "category": "수산물",
+    "unit": "마리",
+    "image_url": "https://picsum.photos/seed/kr-pantry-59/400/400"
+  },
+  {
+    "id": 60,
+    "name": "낙지",
+    "category": "수산물",
+    "unit": "마리",
+    "image_url": "https://picsum.photos/seed/kr-pantry-60/400/400"
+  },
+  {
+    "id": 61,
+    "name": "새우",
+    "category": "수산물",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-61/400/400"
+  },
+  {
+    "id": 62,
+    "name": "바지락",
+    "category": "수산물",
+    "unit": "kg",
+    "image_url": "https://picsum.photos/seed/kr-pantry-62/400/400"
+  },
+  {
+    "id": 63,
+    "name": "멸치",
+    "category": "수산물",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-63/400/400"
+  },
+  {
+    "id": 64,
+    "name": "다시마",
+    "category": "수산물",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-64/400/400"
+  },
+  {
+    "id": 65,
+    "name": "미역",
+    "category": "수산물",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-65/400/400"
+  },
+  {
+    "id": 66,
+    "name": "김",
+    "category": "수산물",
+    "unit": "봉",
+    "image_url": "https://picsum.photos/seed/kr-pantry-66/400/400"
+  },
+  {
+    "id": 67,
+    "name": "참치 통조림",
+    "category": "통조림",
+    "unit": "통",
+    "image_url": "https://picsum.photos/seed/kr-pantry-67/400/400"
+  },
+  {
+    "id": 68,
+    "name": "스팸",
+    "category": "통조림",
+    "unit": "통",
+    "image_url": "https://picsum.photos/seed/kr-pantry-68/400/400"
+  },
+  {
+    "id": 69,
+    "name": "옥수수 통조림",
+    "category": "통조림",
+    "unit": "통",
+    "image_url": "https://picsum.photos/seed/kr-pantry-69/400/400"
+  },
+  {
+    "id": 70,
+    "name": "완두콩 통조림",
+    "category": "통조림",
+    "unit": "통",
+    "image_url": "https://picsum.photos/seed/kr-pantry-70/400/400"
+  },
+  {
+    "id": 71,
+    "name": "햄 통조림",
+    "category": "통조림",
+    "unit": "통",
+    "image_url": "https://picsum.photos/seed/kr-pantry-71/400/400"
+  },
+  {
+    "id": 72,
+    "name": "간장",
+    "category": "장류·소스",
+    "unit": "ml",
+    "image_url": "https://picsum.photos/seed/kr-pantry-72/400/400"
+  },
+  {
+    "id": 73,
+    "name": "국간장",
+    "category": "장류·소스",
+    "unit": "ml",
+    "image_url": "https://picsum.photos/seed/kr-pantry-73/400/400"
+  },
+  {
+    "id": 74,
+    "name": "진간장",
+    "category": "장류·소스",
+    "unit": "ml",
+    "image_url": "https://picsum.photos/seed/kr-pantry-74/400/400"
+  },
+  {
+    "id": 75,
+    "name": "된장",
+    "category": "장류·소스",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-75/400/400"
+  },
+  {
+    "id": 76,
+    "name": "고추장",
+    "category": "장류·소스",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-76/400/400"
+  },
+  {
+    "id": 77,
+    "name": "쌈장",
+    "category": "장류·소스",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-77/400/400"
+  },
+  {
+    "id": 78,
+    "name": "고춧가루",
+    "category": "양념",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-78/400/400"
+  },
+  {
+    "id": 79,
+    "name": "후추",
+    "category": "양념",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-79/400/400"
+  },
+  {
+    "id": 80,
+    "name": "소금",
+    "category": "양념",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-80/400/400"
+  },
+  {
+    "id": 81,
+    "name": "설탕",
+    "category": "양념",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-81/400/400"
+  },
+  {
+    "id": 82,
+    "name": "식초",
+    "category": "양념",
+    "unit": "ml",
+    "image_url": "https://picsum.photos/seed/kr-pantry-82/400/400"
+  },
+  {
+    "id": 83,
+    "name": "참기름",
+    "category": "양념",
+    "unit": "ml",
+    "image_url": "https://picsum.photos/seed/kr-pantry-83/400/400"
+  },
+  {
+    "id": 84,
+    "name": "들기름",
+    "category": "양념",
+    "unit": "ml",
+    "image_url": "https://picsum.photos/seed/kr-pantry-84/400/400"
+  },
+  {
+    "id": 85,
+    "name": "식용유",
+    "category": "양념",
+    "unit": "ml",
+    "image_url": "https://picsum.photos/seed/kr-pantry-85/400/400"
+  },
+  {
+    "id": 86,
+    "name": "맛술",
+    "category": "양념",
+    "unit": "ml",
+    "image_url": "https://picsum.photos/seed/kr-pantry-86/400/400"
+  },
+  {
+    "id": 87,
+    "name": "물엿",
+    "category": "양념",
+    "unit": "ml",
+    "image_url": "https://picsum.photos/seed/kr-pantry-87/400/400"
+  },
+  {
+    "id": 88,
+    "name": "케첩",
+    "category": "소스",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-88/400/400"
+  },
+  {
+    "id": 89,
+    "name": "마요네즈",
+    "category": "소스",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-89/400/400"
+  },
+  {
+    "id": 90,
+    "name": "돈가스소스",
+    "category": "소스",
+    "unit": "ml",
+    "image_url": "https://picsum.photos/seed/kr-pantry-90/400/400"
+  },
+  {
+    "id": 91,
+    "name": "카레 가루",
+    "category": "소스",
+    "unit": "개",
+    "image_url": "https://picsum.photos/seed/kr-pantry-91/400/400"
+  },
+  {
+    "id": 92,
+    "name": "고추기름",
+    "category": "양념",
+    "unit": "ml",
+    "image_url": "https://picsum.photos/seed/kr-pantry-92/400/400"
+  },
+  {
+    "id": 93,
+    "name": "다진마늘",
+    "category": "양념",
+    "unit": "통",
+    "image_url": "https://picsum.photos/seed/kr-pantry-93/400/400"
+  },
+  {
+    "id": 94,
+    "name": "김치",
+    "category": "발효·절임",
+    "unit": "kg",
+    "image_url": "https://picsum.photos/seed/kr-pantry-94/400/400"
+  },
+  {
+    "id": 95,
+    "name": "깍두기",
+    "category": "발효·절임",
+    "unit": "kg",
+    "image_url": "https://picsum.photos/seed/kr-pantry-95/400/400"
+  },
+  {
+    "id": 96,
+    "name": "어묵",
+    "category": "가공수산",
+    "unit": "팩",
+    "image_url": "https://picsum.photos/seed/kr-pantry-96/400/400"
+  },
+  {
+    "id": 97,
+    "name": "떡국떡",
+    "category": "떡류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-97/400/400"
+  },
+  {
+    "id": 98,
+    "name": "떡볶이떡",
+    "category": "떡류",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-98/400/400"
+  },
+  {
+    "id": 99,
+    "name": "만두",
+    "category": "냉동가공",
+    "unit": "팩",
+    "image_url": "https://picsum.photos/seed/kr-pantry-99/400/400"
+  },
+  {
+    "id": 100,
+    "name": "김가루",
+    "category": "가공수산",
+    "unit": "g",
+    "image_url": "https://picsum.photos/seed/kr-pantry-100/400/400"
+  }
+]

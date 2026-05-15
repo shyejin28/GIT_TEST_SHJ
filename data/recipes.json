@@ -1,0 +1,2085 @@
+[
+  {
+    "name": "제육볶음",
+    "category": "한식",
+    "name_en": "jeyuk",
+    "core_ingredients": [
+      "pork_neck"
+    ],
+    "sub_ingredients": [
+      "veg_kimchi",
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/jeyuk/800/500"
+  },
+  {
+    "name": "삼겹살구이",
+    "category": "한식",
+    "name_en": "samgyeop",
+    "core_ingredients": [
+      "pork_belly",
+      "veg_lettuce"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/samgyeop/800/500"
+  },
+  {
+    "name": "김치찌개",
+    "category": "한식",
+    "name_en": "kimchi jjigae",
+    "core_ingredients": [
+      "veg_kimchi",
+      "pork_neck",
+      "proc_tofu"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/kimchi-jjigae/800/500"
+  },
+  {
+    "name": "순두부찌개",
+    "category": "한식",
+    "name_en": "sundubu",
+    "core_ingredients": [
+      "proc_soft_tofu",
+      "chicken_breast",
+      "egg"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/sundubu/800/500"
+  },
+  {
+    "name": "부대찌개",
+    "category": "한식",
+    "name_en": "budae",
+    "core_ingredients": [
+      "proc_spam",
+      "proc_sausage",
+      "proc_ramen",
+      "proc_ham"
+    ],
+    "sub_ingredients": [
+      "veg_potato",
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/budae/800/500"
+  },
+  {
+    "name": "라볶이",
+    "category": "한식",
+    "name_en": "rabokki",
+    "core_ingredients": [
+      "proc_ramen",
+      "proc_fish_cake",
+      "veg_kimchi"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/rabokki/800/500"
+  },
+  {
+    "name": "떡볶이 스타일",
+    "category": "한식",
+    "name_en": "tteokbokki style",
+    "core_ingredients": [
+      "proc_fish_cake",
+      "veg_onion"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/tteokbokki-style/800/500"
+  },
+  {
+    "name": "오징어볶음",
+    "category": "한식",
+    "name_en": "ojingeo",
+    "core_ingredients": [
+      "sea_squid",
+      "veg_potato"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/ojingeo/800/500"
+  },
+  {
+    "name": "새우볶음",
+    "category": "한식",
+    "name_en": "shrimp stir",
+    "core_ingredients": [
+      "sea_shrimp",
+      "veg_garlic"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/shrimp-stir/800/500"
+  },
+  {
+    "name": "연어구이",
+    "category": "한식",
+    "name_en": "salmon grill",
+    "core_ingredients": [
+      "fish_salmon",
+      "veg_lettuce"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/salmon-grill/800/500"
+  },
+  {
+    "name": "고등어조림",
+    "category": "한식",
+    "name_en": "mackerel",
+    "core_ingredients": [
+      "fish_mackerel",
+      "veg_onion"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/mackerel/800/500"
+  },
+  {
+    "name": "불고기",
+    "category": "한식",
+    "name_en": "bulgogi",
+    "core_ingredients": [
+      "beef_plate",
+      "veg_onion"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/bulgogi/800/500"
+  },
+  {
+    "name": "차돌볶음",
+    "category": "한식",
+    "name_en": "brisket stir",
+    "core_ingredients": [
+      "beef_brisket",
+      "veg_scallion"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/brisket-stir/800/500"
+  },
+  {
+    "name": "닭볶음탕",
+    "category": "한식",
+    "name_en": "dakbokkeum",
+    "core_ingredients": [
+      "chicken_thigh",
+      "veg_potato"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dakbokkeum/800/500"
+  },
+  {
+    "name": "닭가슴살 샐러드",
+    "category": "한식",
+    "name_en": "chicken salad",
+    "core_ingredients": [
+      "chicken_breast",
+      "veg_lettuce",
+      "veg_spinach"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/chicken-salad/800/500"
+  },
+  {
+    "name": "파스타 토마토",
+    "category": "이탈리안",
+    "name_en": "pasta tomato",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "veg_kimchi"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/pasta-tomato/800/500"
+  },
+  {
+    "name": "명란파스타",
+    "category": "이탈리안",
+    "name_en": "mentaiko pasta",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "sea_shrimp"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/mentaiko-pasta/800/500"
+  },
+  {
+    "name": "김치삼겹살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_kimchi",
+      "pork_belly"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "김치목살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_kimchi",
+      "pork_neck"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "김치우삼겹 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_kimchi",
+      "beef_plate"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "김치차돌박이 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_kimchi",
+      "beef_brisket"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "김치닭다리살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_kimchi",
+      "chicken_thigh"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "김치닭가슴살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_kimchi",
+      "chicken_breast"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "양파삼겹살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_onion",
+      "pork_belly"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "양파목살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_onion",
+      "pork_neck"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "양파우삼겹 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_onion",
+      "beef_plate"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "양파차돌박이 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_onion",
+      "beef_brisket"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "양파닭다리살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_onion",
+      "chicken_thigh"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "양파닭가슴살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_onion",
+      "chicken_breast"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "상추삼겹살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_lettuce",
+      "pork_belly"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "상추목살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_lettuce",
+      "pork_neck"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "상추우삼겹 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_lettuce",
+      "beef_plate"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "상추차돌박이 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_lettuce",
+      "beef_brisket"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "상추닭다리살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_lettuce",
+      "chicken_thigh"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "상추닭가슴살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_lettuce",
+      "chicken_breast"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "시금치삼겹살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_spinach",
+      "pork_belly"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "시금치목살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_spinach",
+      "pork_neck"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "시금치우삼겹 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_spinach",
+      "beef_plate"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "시금치차돌박이 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_spinach",
+      "beef_brisket"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "시금치닭다리살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_spinach",
+      "chicken_thigh"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "시금치닭가슴살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_spinach",
+      "chicken_breast"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "팽이버섯삼겹살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_enoki",
+      "pork_belly"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "팽이버섯목살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_enoki",
+      "pork_neck"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "팽이버섯우삼겹 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_enoki",
+      "beef_plate"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "팽이버섯차돌박이 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_enoki",
+      "beef_brisket"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "팽이버섯닭다리살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_enoki",
+      "chicken_thigh"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "팽이버섯닭가슴살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_enoki",
+      "chicken_breast"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "감자삼겹살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_potato",
+      "pork_belly"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "감자목살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_potato",
+      "pork_neck"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "감자우삼겹 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_potato",
+      "beef_plate"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "감자차돌박이 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_potato",
+      "beef_brisket"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "감자닭다리살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_potato",
+      "chicken_thigh"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "감자닭가슴살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_potato",
+      "chicken_breast"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "대파삼겹살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_scallion",
+      "pork_belly"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "대파목살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_scallion",
+      "pork_neck"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "대파우삼겹 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_scallion",
+      "beef_plate"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "대파차돌박이 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_scallion",
+      "beef_brisket"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "대파닭다리살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_scallion",
+      "chicken_thigh"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "대파닭가슴살 볶음",
+    "category": "한식",
+    "name_en": "korean stir dish dish",
+    "core_ingredients": [
+      "veg_scallion",
+      "chicken_breast"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/korean-stir-dish-dish/800/500"
+  },
+  {
+    "name": "라면사리 고등어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_ramen",
+      "fish_mackerel"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "라면사리 연어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_ramen",
+      "fish_salmon"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "라면사리 새우 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_ramen",
+      "sea_shrimp"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "라면사리 오징어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_ramen",
+      "sea_squid"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 고등어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "fish_mackerel"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 연어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "fish_salmon"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 새우 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "sea_shrimp"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 오징어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "sea_squid"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "만두 고등어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_dumpling",
+      "fish_mackerel"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "만두 연어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_dumpling",
+      "fish_salmon"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "만두 새우 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_dumpling",
+      "sea_shrimp"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "만두 오징어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_dumpling",
+      "sea_squid"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "어묵 고등어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_fish_cake",
+      "fish_mackerel"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "어묵 연어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_fish_cake",
+      "fish_salmon"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "어묵 새우 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_fish_cake",
+      "sea_shrimp"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "어묵 오징어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_fish_cake",
+      "sea_squid"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "스팸 고등어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_spam",
+      "fish_mackerel"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "스팸 연어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_spam",
+      "fish_salmon"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "스팸 새우 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_spam",
+      "sea_shrimp"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "스팸 오징어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_spam",
+      "sea_squid"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "즉석밥 고등어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_instant_rice",
+      "fish_mackerel"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "즉석밥 연어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_instant_rice",
+      "fish_salmon"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "즉석밥 새우 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_instant_rice",
+      "sea_shrimp"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "즉석밥 오징어 요리",
+    "category": "한식",
+    "name_en": "dish dish dish",
+    "core_ingredients": [
+      "proc_instant_rice",
+      "sea_squid"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/dish-dish-dish/800/500"
+  },
+  {
+    "name": "삼겹살 고등어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "pork_belly",
+      "fish_mackerel",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "삼겹살 연어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "pork_belly",
+      "fish_salmon",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "삼겹살 새우 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "pork_belly",
+      "sea_shrimp",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "삼겹살 오징어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "pork_belly",
+      "sea_squid",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "목살 고등어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "pork_neck",
+      "fish_mackerel",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "목살 연어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "pork_neck",
+      "fish_salmon",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "목살 새우 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "pork_neck",
+      "sea_shrimp",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "목살 오징어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "pork_neck",
+      "sea_squid",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "우삼겹 고등어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "beef_plate",
+      "fish_mackerel",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "우삼겹 연어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "beef_plate",
+      "fish_salmon",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "우삼겹 새우 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "beef_plate",
+      "sea_shrimp",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "우삼겹 오징어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "beef_plate",
+      "sea_squid",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "차돌박이 고등어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "beef_brisket",
+      "fish_mackerel",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "차돌박이 연어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "beef_brisket",
+      "fish_salmon",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "차돌박이 새우 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "beef_brisket",
+      "sea_shrimp",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "차돌박이 오징어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "beef_brisket",
+      "sea_squid",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "닭다리살 고등어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "chicken_thigh",
+      "fish_mackerel",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "닭다리살 연어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "chicken_thigh",
+      "fish_salmon",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "닭다리살 새우 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "chicken_thigh",
+      "sea_shrimp",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "닭다리살 오징어 덮밥",
+    "category": "일식",
+    "name_en": "donburi dish dish",
+    "core_ingredients": [
+      "chicken_thigh",
+      "sea_squid",
+      "proc_instant_rice"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/donburi-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 새우 시금치",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "sea_shrimp",
+      "veg_spinach"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 새우 팽이버섯",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "sea_shrimp",
+      "veg_enoki"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 새우 감자",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "sea_shrimp",
+      "veg_potato"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 새우 상추",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "sea_shrimp",
+      "veg_lettuce"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 오징어 시금치",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "sea_squid",
+      "veg_spinach"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 오징어 팽이버섯",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "sea_squid",
+      "veg_enoki"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 오징어 감자",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "sea_squid",
+      "veg_potato"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 오징어 상추",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "sea_squid",
+      "veg_lettuce"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 연어 시금치",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "fish_salmon",
+      "veg_spinach"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 연어 팽이버섯",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "fish_salmon",
+      "veg_enoki"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 연어 감자",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "fish_salmon",
+      "veg_potato"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 연어 상추",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "fish_salmon",
+      "veg_lettuce"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 목살 시금치",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "pork_neck",
+      "veg_spinach"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 목살 팽이버섯",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "pork_neck",
+      "veg_enoki"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 목살 감자",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "pork_neck",
+      "veg_potato"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 목살 상추",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "pork_neck",
+      "veg_lettuce"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 닭가슴살 시금치",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "chicken_breast",
+      "veg_spinach"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 닭가슴살 팽이버섯",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "chicken_breast",
+      "veg_enoki"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 닭가슴살 감자",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "chicken_breast",
+      "veg_potato"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "파스타면 닭가슴살 상추",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_spaghetti",
+      "chicken_breast",
+      "veg_lettuce"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "라면사리 새우 시금치",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_ramen",
+      "sea_shrimp",
+      "veg_spinach"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "라면사리 새우 팽이버섯",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_ramen",
+      "sea_shrimp",
+      "veg_enoki"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "라면사리 새우 감자",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_ramen",
+      "sea_shrimp",
+      "veg_potato"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  },
+  {
+    "name": "라면사리 새우 상추",
+    "category": "이탈리안",
+    "name_en": "italian dish dish dish",
+    "core_ingredients": [
+      "proc_ramen",
+      "sea_shrimp",
+      "veg_lettuce"
+    ],
+    "sub_ingredients": [
+      "veg_onion",
+      "veg_scallion",
+      "veg_garlic"
+    ],
+    "optional_any_of": [],
+    "image_url": "https://picsum.photos/seed/italian-dish-dish-dish/800/500"
+  }
+]

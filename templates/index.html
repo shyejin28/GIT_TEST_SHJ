@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fridge Matcher</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              ink: "#1F2937",
+              line: "#E5E7EB",
+            },
+          },
+        },
+      };
+    </script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css"
+    />
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        background-color: #ffffff;
+        color: #1f2937;
+        font-family: Pretendard, "Malgun Gothic", "맑은 고딕", system-ui, -apple-system, sans-serif;
+        -webkit-font-smoothing: antialiased;
+      }
+    </style>
+  </head>
+  <body class="min-h-screen bg-[#FFFFFF] text-ink antialiased">
+    <main
+      class="mx-auto grid min-h-screen max-w-[1680px] grid-cols-1 bg-[#FFFFFF] lg:min-h-screen lg:grid-cols-[minmax(0,45fr)_minmax(0,55fr)]"
+    >
+      <!-- 좌측 45% -->
+      <section
+        class="flex min-h-0 min-w-0 flex-col bg-[#FFFFFF] lg:border-r lg:border-[#F3F4F6]"
+        aria-labelledby="page-title"
+      >
+        <div class="shrink-0 border-b border-line bg-[#FFFFFF] px-6 py-6">
+          <p class="text-[10px] font-semibold uppercase tracking-[0.22em] text-gray-400">FRIDGE MATCHER</p>
+          <h1 id="page-title" class="mt-2 text-2xl font-bold leading-snug tracking-tight text-ink md:text-[1.65rem]">
+            내 냉장고 재료로 요리 추천
+          </h1>
+          <div class="mt-5 flex flex-wrap items-center justify-between gap-3">
+            <p id="selection-count" class="text-sm font-medium text-gray-600">선택: 0개</p>
+            <button
+              type="button"
+              id="btn-clear"
+              class="shrink-0 rounded-lg border border-line bg-[#FFFFFF] px-4 py-2 text-sm font-medium text-ink shadow-sm transition hover:bg-gray-50"
+            >
+              선택 초기화
+            </button>
+          </div>
+          <div id="selected-tags" class="mt-4 flex min-h-[2.5rem] flex-wrap gap-2" role="list" aria-label="선택된 재료"></div>
+        </div>
+
+        <div class="flex min-h-0 flex-1 flex-col bg-[#FFFFFF]">
+          <div class="shrink-0 border-b border-line px-6 py-4">
+            <input
+              id="ingredient-search"
+              type="search"
+              autocomplete="off"
+              placeholder="이름 또는 별칭으로 검색"
+              class="block w-full rounded-full border border-line bg-[#FFFFFF] px-5 py-2.5 text-sm text-ink shadow-sm outline-none transition placeholder:text-gray-400 focus:border-gray-400 focus:ring-2 focus:ring-gray-100"
+            />
+            <div
+              id="search-results"
+              class="mt-2 hidden max-h-52 overflow-y-auto rounded-xl border border-line bg-[#FFFFFF] shadow-sm"
+              role="listbox"
+            ></div>
+          </div>
+          <div id="category-accordions" class="min-h-0 flex-1 overflow-y-auto bg-[#FFFFFF] px-6 py-5"></div>
+        </div>
+      </section>
+
+      <!-- 우측 55% -->
+      <section class="flex min-h-0 min-w-0 flex-col bg-[#FFFFFF] lg:min-h-screen" aria-labelledby="results-title">
+        <div class="shrink-0 border-b border-line bg-[#FFFFFF] px-6 py-6">
+          <h2 id="results-title" class="text-lg font-bold tracking-tight text-ink">추천 결과</h2>
+        </div>
+        <div id="results-panel" class="flex min-h-0 flex-1 flex-col overflow-hidden bg-[#FFFFFF] p-6">
+          <p id="results-empty" class="hidden min-h-[6rem]" aria-hidden="true"></p>
+          <div
+            id="results-grid"
+            class="grid flex-1 grid-cols-1 content-start gap-5 overflow-y-auto sm:grid-cols-2"
+            role="list"
+          ></div>
+        </div>
+      </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}" defer></script>
+  </body>
+</html>

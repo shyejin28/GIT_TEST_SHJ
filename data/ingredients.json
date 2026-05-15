@@ -1,0 +1,233 @@
+[
+  {
+    "id": "pork_belly",
+    "name": "삼겹살",
+    "category": "육류",
+    "sub_category": "돼지고기",
+    "aliases": []
+  },
+  {
+    "id": "pork_neck",
+    "name": "목살",
+    "category": "육류",
+    "sub_category": "돼지고기",
+    "aliases": [
+      "돼지목살"
+    ]
+  },
+  {
+    "id": "beef_plate",
+    "name": "우삼겹",
+    "category": "육류",
+    "sub_category": "소고기",
+    "aliases": []
+  },
+  {
+    "id": "beef_brisket",
+    "name": "차돌박이",
+    "category": "육류",
+    "sub_category": "소고기",
+    "aliases": [
+      "차돌"
+    ]
+  },
+  {
+    "id": "chicken_thigh",
+    "name": "닭다리살",
+    "category": "육류",
+    "sub_category": "닭고기",
+    "aliases": []
+  },
+  {
+    "id": "chicken_breast",
+    "name": "닭가슴살",
+    "category": "육류",
+    "sub_category": "닭고기",
+    "aliases": [
+      "가슴살"
+    ]
+  },
+  {
+    "id": "egg",
+    "name": "계란",
+    "category": "육류",
+    "sub_category": "난류",
+    "aliases": [
+      "달걀"
+    ]
+  },
+  {
+    "id": "fish_mackerel",
+    "name": "고등어",
+    "category": "해산물",
+    "sub_category": "생선",
+    "aliases": []
+  },
+  {
+    "id": "fish_salmon",
+    "name": "연어",
+    "category": "해산물",
+    "sub_category": "생선",
+    "aliases": [
+      "생연어"
+    ]
+  },
+  {
+    "id": "sea_shrimp",
+    "name": "새우",
+    "category": "해산물",
+    "sub_category": "패류",
+    "aliases": [
+      "왕새우"
+    ]
+  },
+  {
+    "id": "sea_squid",
+    "name": "오징어",
+    "category": "해산물",
+    "sub_category": "패류",
+    "aliases": []
+  },
+  {
+    "id": "veg_onion",
+    "name": "양파",
+    "category": "채소",
+    "sub_category": "채소",
+    "aliases": []
+  },
+  {
+    "id": "veg_scallion",
+    "name": "대파",
+    "category": "채소",
+    "sub_category": "채소",
+    "aliases": [
+      "파"
+    ]
+  },
+  {
+    "id": "veg_garlic",
+    "name": "마늘",
+    "category": "채소",
+    "sub_category": "채소",
+    "aliases": []
+  },
+  {
+    "id": "veg_lettuce",
+    "name": "상추",
+    "category": "채소",
+    "sub_category": "채소",
+    "aliases": []
+  },
+  {
+    "id": "veg_kimchi",
+    "name": "김치",
+    "category": "채소",
+    "sub_category": "채소",
+    "aliases": [
+      "배추김치"
+    ]
+  },
+  {
+    "id": "veg_enoki",
+    "name": "팽이버섯",
+    "category": "채소",
+    "sub_category": "버섯",
+    "aliases": [
+      "팽이"
+    ]
+  },
+  {
+    "id": "veg_spinach",
+    "name": "시금치",
+    "category": "채소",
+    "sub_category": "채소",
+    "aliases": []
+  },
+  {
+    "id": "proc_ramen",
+    "name": "라면사리",
+    "category": "가공품",
+    "sub_category": "면류",
+    "aliases": [
+      "라면"
+    ]
+  },
+  {
+    "id": "proc_spaghetti",
+    "name": "파스타면",
+    "category": "가공품",
+    "sub_category": "면류",
+    "aliases": [
+      "스파게티면"
+    ]
+  },
+  {
+    "id": "proc_dumpling",
+    "name": "만두",
+    "category": "가공품",
+    "sub_category": "냉동·기타",
+    "aliases": [
+      "왕만두"
+    ]
+  },
+  {
+    "id": "proc_fish_cake",
+    "name": "어묵",
+    "category": "가공품",
+    "sub_category": "냉동·기타",
+    "aliases": [
+      "오뎅"
+    ]
+  },
+  {
+    "id": "proc_spam",
+    "name": "스팸",
+    "category": "가공품",
+    "sub_category": "냉동·기타",
+    "aliases": []
+  },
+  {
+    "id": "proc_instant_rice",
+    "name": "즉석밥",
+    "category": "가공품",
+    "sub_category": "냉동·기타",
+    "aliases": [
+      "밥"
+    ]
+  },
+  {
+    "id": "proc_tofu",
+    "name": "두부",
+    "category": "가공품",
+    "sub_category": "냉동·기타",
+    "aliases": []
+  },
+  {
+    "id": "proc_soft_tofu",
+    "name": "순두부",
+    "category": "가공품",
+    "sub_category": "냉동·기타",
+    "aliases": []
+  },
+  {
+    "id": "proc_sausage",
+    "name": "소시지",
+    "category": "가공품",
+    "sub_category": "냉동·기타",
+    "aliases": []
+  },
+  {
+    "id": "proc_ham",
+    "name": "햄",
+    "category": "가공품",
+    "sub_category": "냉동·기타",
+    "aliases": []
+  },
+  {
+    "id": "veg_potato",
+    "name": "감자",
+    "category": "채소",
+    "sub_category": "채소",
+    "aliases": []
+  }
+]

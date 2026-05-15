@@ -1,0 +1,2053 @@
+[
+  {
+    "id": 1,
+    "recipe_name": "흰쌀밥",
+    "ingredients": {
+      "required": [
+        1
+      ],
+      "optional": []
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 35,
+    "image_url": "https://picsum.photos/seed/kr-recipe-1/640/400"
+  },
+  {
+    "id": 2,
+    "recipe_name": "현미밥",
+    "ingredients": {
+      "required": [
+        2
+      ],
+      "optional": []
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 45,
+    "image_url": "https://picsum.photos/seed/kr-recipe-2/640/400"
+  },
+  {
+    "id": 3,
+    "recipe_name": "찹쌀밥",
+    "ingredients": {
+      "required": [
+        3
+      ],
+      "optional": []
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 40,
+    "image_url": "https://picsum.photos/seed/kr-recipe-3/640/400"
+  },
+  {
+    "id": 4,
+    "recipe_name": "김치찌개",
+    "ingredients": {
+      "required": [
+        94,
+        38,
+        78
+      ],
+      "optional": [
+        55,
+        13,
+        14,
+        75,
+        76,
+        36,
+        93,
+        83,
+        73
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 35,
+    "image_url": "https://picsum.photos/seed/kr-recipe-4/640/400"
+  },
+  {
+    "id": 5,
+    "recipe_name": "된장찌개",
+    "ingredients": {
+      "required": [
+        75,
+        63,
+        12,
+        55
+      ],
+      "optional": [
+        14,
+        16,
+        33,
+        38,
+        73,
+        83
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 30,
+    "image_url": "https://picsum.photos/seed/kr-recipe-5/640/400"
+  },
+  {
+    "id": 6,
+    "recipe_name": "순두부찌개",
+    "ingredients": {
+      "required": [
+        56,
+        78,
+        85
+      ],
+      "optional": [
+        44,
+        62,
+        14,
+        32,
+        36,
+        93,
+        50
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 20,
+    "image_url": "https://picsum.photos/seed/kr-recipe-6/640/400"
+  },
+  {
+    "id": 7,
+    "recipe_name": "부대찌개",
+    "ingredients": {
+      "required": [
+        6,
+        71,
+        76,
+        13
+      ],
+      "optional": [
+        68,
+        48,
+        94,
+        16,
+        14,
+        78
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 35,
+    "image_url": "https://picsum.photos/seed/kr-recipe-7/640/400"
+  },
+  {
+    "id": 8,
+    "recipe_name": "참치김치찌개",
+    "ingredients": {
+      "required": [
+        67,
+        94,
+        76
+      ],
+      "optional": [
+        55,
+        14,
+        13,
+        78,
+        32
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 25,
+    "image_url": "https://picsum.photos/seed/kr-recipe-8/640/400"
+  },
+  {
+    "id": 9,
+    "recipe_name": "비빔밥",
+    "ingredients": {
+      "required": [
+        1,
+        76
+      ],
+      "optional": [
+        26,
+        17,
+        25,
+        20,
+        94,
+        50,
+        43,
+        83,
+        29
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 40,
+    "image_url": "https://picsum.photos/seed/kr-recipe-9/640/400"
+  },
+  {
+    "id": 10,
+    "recipe_name": "불고기",
+    "ingredients": {
+      "required": [
+        43,
+        13,
+        72
+      ],
+      "optional": [
+        14,
+        36,
+        81,
+        86,
+        83,
+        93
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 30,
+    "image_url": "https://picsum.photos/seed/kr-recipe-10/640/400"
+  },
+  {
+    "id": 11,
+    "recipe_name": "제육볶음",
+    "ingredients": {
+      "required": [
+        39,
+        76,
+        78
+      ],
+      "optional": [
+        13,
+        14,
+        32,
+        81,
+        85,
+        93
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 25,
+    "image_url": "https://picsum.photos/seed/kr-recipe-11/640/400"
+  },
+  {
+    "id": 12,
+    "recipe_name": "삼겹살구이",
+    "ingredients": {
+      "required": [
+        40,
+        85
+      ],
+      "optional": [
+        13,
+        77,
+        29,
+        23,
+        94,
+        79
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 25,
+    "image_url": "https://picsum.photos/seed/kr-recipe-12/640/400"
+  },
+  {
+    "id": 13,
+    "recipe_name": "돼지고기 김치찜",
+    "ingredients": {
+      "required": [
+        94,
+        40,
+        81
+      ],
+      "optional": [
+        14,
+        78,
+        72,
+        86
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 50,
+    "image_url": "https://picsum.photos/seed/kr-recipe-13/640/400"
+  },
+  {
+    "id": 14,
+    "recipe_name": "돈가스",
+    "ingredients": {
+      "required": [
+        39,
+        4,
+        50,
+        90
+      ],
+      "optional": [
+        16,
+        80,
+        85,
+        52
+      ]
+    },
+    "difficulty": "어려움",
+    "estimated_time": 45,
+    "image_url": "https://picsum.photos/seed/kr-recipe-14/640/400"
+  },
+  {
+    "id": 15,
+    "recipe_name": "닭볶음탕",
+    "ingredients": {
+      "required": [
+        45,
+        12,
+        76,
+        78
+      ],
+      "optional": [
+        16,
+        13,
+        14,
+        81,
+        32,
+        93
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 45,
+    "image_url": "https://picsum.photos/seed/kr-recipe-15/640/400"
+  },
+  {
+    "id": 16,
+    "recipe_name": "닭갈비",
+    "ingredients": {
+      "required": [
+        44,
+        76,
+        12
+      ],
+      "optional": [
+        16,
+        13,
+        78,
+        81,
+        85,
+        34
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 35,
+    "image_url": "https://picsum.photos/seed/kr-recipe-16/640/400"
+  },
+  {
+    "id": 17,
+    "recipe_name": "간장닭다리조림",
+    "ingredients": {
+      "required": [
+        45,
+        72,
+        81
+      ],
+      "optional": [
+        13,
+        14,
+        36,
+        86,
+        79
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 40,
+    "image_url": "https://picsum.photos/seed/kr-recipe-17/640/400"
+  },
+  {
+    "id": 18,
+    "recipe_name": "오징어볶음",
+    "ingredients": {
+      "required": [
+        59,
+        76,
+        78
+      ],
+      "optional": [
+        17,
+        14,
+        13,
+        32,
+        81,
+        85
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 20,
+    "image_url": "https://picsum.photos/seed/kr-recipe-18/640/400"
+  },
+  {
+    "id": 19,
+    "recipe_name": "낙지볶음",
+    "ingredients": {
+      "required": [
+        60,
+        78,
+        76
+      ],
+      "optional": [
+        14,
+        13,
+        32,
+        17,
+        93,
+        85
+      ]
+    },
+    "difficulty": "어려움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-19/640/400"
+  },
+  {
+    "id": 20,
+    "recipe_name": "고등어구이",
+    "ingredients": {
+      "required": [
+        57,
+        85
+      ],
+      "optional": [
+        80,
+        14,
+        83,
+        36
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-20/640/400"
+  },
+  {
+    "id": 21,
+    "recipe_name": "갈치조림",
+    "ingredients": {
+      "required": [
+        58,
+        72,
+        13
+      ],
+      "optional": [
+        81,
+        86,
+        14,
+        78,
+        32
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 35,
+    "image_url": "https://picsum.photos/seed/kr-recipe-21/640/400"
+  },
+  {
+    "id": 22,
+    "recipe_name": "새우버터구이",
+    "ingredients": {
+      "required": [
+        61,
+        53,
+        85
+      ],
+      "optional": [
+        80,
+        79,
+        14,
+        37
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 12,
+    "image_url": "https://picsum.photos/seed/kr-recipe-22/640/400"
+  },
+  {
+    "id": 23,
+    "recipe_name": "미역국",
+    "ingredients": {
+      "required": [
+        65,
+        41,
+        73
+      ],
+      "optional": [
+        14,
+        83,
+        50,
+        86,
+        79
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 40,
+    "image_url": "https://picsum.photos/seed/kr-recipe-23/640/400"
+  },
+  {
+    "id": 24,
+    "recipe_name": "소고기무국",
+    "ingredients": {
+      "required": [
+        41,
+        12,
+        63,
+        73
+      ],
+      "optional": [
+        14,
+        50,
+        79,
+        83
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 50,
+    "image_url": "https://picsum.photos/seed/kr-recipe-24/640/400"
+  },
+  {
+    "id": 25,
+    "recipe_name": "육개장",
+    "ingredients": {
+      "required": [
+        41,
+        78,
+        85
+      ],
+      "optional": [
+        26,
+        14,
+        32,
+        76,
+        93,
+        83
+      ]
+    },
+    "difficulty": "어려움",
+    "estimated_time": 60,
+    "image_url": "https://picsum.photos/seed/kr-recipe-25/640/400"
+  },
+  {
+    "id": 26,
+    "recipe_name": "멸치국물국",
+    "ingredients": {
+      "required": [
+        63,
+        14,
+        73
+      ],
+      "optional": [
+        12,
+        16,
+        50,
+        83,
+        79
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 25,
+    "image_url": "https://picsum.photos/seed/kr-recipe-26/640/400"
+  },
+  {
+    "id": 27,
+    "recipe_name": "배추된장국",
+    "ingredients": {
+      "required": [
+        11,
+        75,
+        63
+      ],
+      "optional": [
+        14,
+        16,
+        38,
+        83
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 35,
+    "image_url": "https://picsum.photos/seed/kr-recipe-27/640/400"
+  },
+  {
+    "id": 28,
+    "recipe_name": "시금치된장국",
+    "ingredients": {
+      "required": [
+        25,
+        75,
+        63
+      ],
+      "optional": [
+        14,
+        55,
+        83
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 20,
+    "image_url": "https://picsum.photos/seed/kr-recipe-28/640/400"
+  },
+  {
+    "id": 29,
+    "recipe_name": "버섯들깨국",
+    "ingredients": {
+      "required": [
+        33,
+        63,
+        84,
+        73
+      ],
+      "optional": [
+        34,
+        14,
+        79,
+        83
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 25,
+    "image_url": "https://picsum.photos/seed/kr-recipe-29/640/400"
+  },
+  {
+    "id": 30,
+    "recipe_name": "어묵탕",
+    "ingredients": {
+      "required": [
+        96,
+        63,
+        73
+      ],
+      "optional": [
+        12,
+        14,
+        8,
+        32,
+        78
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 20,
+    "image_url": "https://picsum.photos/seed/kr-recipe-30/640/400"
+  },
+  {
+    "id": 31,
+    "recipe_name": "떡국",
+    "ingredients": {
+      "required": [
+        97,
+        63,
+        14
+      ],
+      "optional": [
+        41,
+        50,
+        15,
+        83,
+        79
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 35,
+    "image_url": "https://picsum.photos/seed/kr-recipe-31/640/400"
+  },
+  {
+    "id": 32,
+    "recipe_name": "떡볶이",
+    "ingredients": {
+      "required": [
+        98,
+        76,
+        63
+      ],
+      "optional": [
+        96,
+        81,
+        14,
+        32,
+        78,
+        85
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 20,
+    "image_url": "https://picsum.photos/seed/kr-recipe-32/640/400"
+  },
+  {
+    "id": 33,
+    "recipe_name": "라볶이",
+    "ingredients": {
+      "required": [
+        6,
+        98,
+        76
+      ],
+      "optional": [
+        81,
+        96,
+        50,
+        14
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-33/640/400"
+  },
+  {
+    "id": 34,
+    "recipe_name": "라면",
+    "ingredients": {
+      "required": [
+        6
+      ],
+      "optional": [
+        50,
+        14,
+        94,
+        96,
+        55
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 10,
+    "image_url": "https://picsum.photos/seed/kr-recipe-34/640/400"
+  },
+  {
+    "id": 35,
+    "recipe_name": "카레라이스",
+    "ingredients": {
+      "required": [
+        1,
+        91,
+        16,
+        17
+      ],
+      "optional": [
+        38,
+        85,
+        52,
+        69,
+        70
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 40,
+    "image_url": "https://picsum.photos/seed/kr-recipe-35/640/400"
+  },
+  {
+    "id": 36,
+    "recipe_name": "김밥",
+    "ingredients": {
+      "required": [
+        1,
+        66,
+        50,
+        17,
+        94
+      ],
+      "optional": [
+        48,
+        96,
+        14,
+        15,
+        100,
+        52
+      ]
+    },
+    "difficulty": "어려움",
+    "estimated_time": 50,
+    "image_url": "https://picsum.photos/seed/kr-recipe-36/640/400"
+  },
+  {
+    "id": 37,
+    "recipe_name": "참치마요덮밥",
+    "ingredients": {
+      "required": [
+        1,
+        67,
+        89
+      ],
+      "optional": [
+        15,
+        100,
+        19,
+        52
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-37/640/400"
+  },
+  {
+    "id": 38,
+    "recipe_name": "스팸마요덮밥",
+    "ingredients": {
+      "required": [
+        1,
+        68,
+        89
+      ],
+      "optional": [
+        50,
+        15,
+        52,
+        85
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-38/640/400"
+  },
+  {
+    "id": 39,
+    "recipe_name": "김치볶음밥",
+    "ingredients": {
+      "required": [
+        1,
+        94,
+        85
+      ],
+      "optional": [
+        50,
+        14,
+        76,
+        81,
+        68
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-39/640/400"
+  },
+  {
+    "id": 40,
+    "recipe_name": "깍두기볶음밥",
+    "ingredients": {
+      "required": [
+        1,
+        95,
+        85
+      ],
+      "optional": [
+        50,
+        14,
+        76,
+        81
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-40/640/400"
+  },
+  {
+    "id": 41,
+    "recipe_name": "계란볶음밥",
+    "ingredients": {
+      "required": [
+        1,
+        50,
+        85
+      ],
+      "optional": [
+        14,
+        73,
+        68,
+        71,
+        13
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 12,
+    "image_url": "https://picsum.photos/seed/kr-recipe-41/640/400"
+  },
+  {
+    "id": 42,
+    "recipe_name": "햄볶음밥",
+    "ingredients": {
+      "required": [
+        1,
+        71,
+        85
+      ],
+      "optional": [
+        50,
+        14,
+        17,
+        69,
+        70
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 12,
+    "image_url": "https://picsum.photos/seed/kr-recipe-42/640/400"
+  },
+  {
+    "id": 43,
+    "recipe_name": "완두콩볶음밥",
+    "ingredients": {
+      "required": [
+        1,
+        70,
+        85
+      ],
+      "optional": [
+        50,
+        14,
+        71,
+        48
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 12,
+    "image_url": "https://picsum.photos/seed/kr-recipe-43/640/400"
+  },
+  {
+    "id": 44,
+    "recipe_name": "베이컨볶음밥",
+    "ingredients": {
+      "required": [
+        1,
+        47,
+        85
+      ],
+      "optional": [
+        50,
+        14,
+        17,
+        52
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 12,
+    "image_url": "https://picsum.photos/seed/kr-recipe-44/640/400"
+  },
+  {
+    "id": 45,
+    "recipe_name": "소시지야채볶음",
+    "ingredients": {
+      "required": [
+        48,
+        13,
+        85
+      ],
+      "optional": [
+        17,
+        21,
+        31,
+        88,
+        80
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-45/640/400"
+  },
+  {
+    "id": 46,
+    "recipe_name": "두부조림",
+    "ingredients": {
+      "required": [
+        55,
+        72,
+        81
+      ],
+      "optional": [
+        14,
+        78,
+        85,
+        93,
+        32
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 25,
+    "image_url": "https://picsum.photos/seed/kr-recipe-46/640/400"
+  },
+  {
+    "id": 47,
+    "recipe_name": "두부김치",
+    "ingredients": {
+      "required": [
+        55,
+        94,
+        40
+      ],
+      "optional": [
+        77,
+        14,
+        83,
+        85
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 20,
+    "image_url": "https://picsum.photos/seed/kr-recipe-47/640/400"
+  },
+  {
+    "id": 48,
+    "recipe_name": "순두부찜",
+    "ingredients": {
+      "required": [
+        56,
+        50,
+        73
+      ],
+      "optional": [
+        14,
+        83,
+        32,
+        78
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-48/640/400"
+  },
+  {
+    "id": 49,
+    "recipe_name": "계란말이",
+    "ingredients": {
+      "required": [
+        50,
+        85
+      ],
+      "optional": [
+        14,
+        80,
+        52,
+        73
+      ]
+    },
+    "difficulty": "어려움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-49/640/400"
+  },
+  {
+    "id": 50,
+    "recipe_name": "계란찜",
+    "ingredients": {
+      "required": [
+        50,
+        73
+      ],
+      "optional": [
+        14,
+        61,
+        80,
+        79
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 12,
+    "image_url": "https://picsum.photos/seed/kr-recipe-50/640/400"
+  },
+  {
+    "id": 51,
+    "recipe_name": "계란프라이",
+    "ingredients": {
+      "required": [
+        50,
+        85
+      ],
+      "optional": [
+        80,
+        79,
+        14
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 5,
+    "image_url": "https://picsum.photos/seed/kr-recipe-51/640/400"
+  },
+  {
+    "id": 52,
+    "recipe_name": "감자조림",
+    "ingredients": {
+      "required": [
+        16,
+        72,
+        81
+      ],
+      "optional": [
+        13,
+        85,
+        86,
+        79
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 30,
+    "image_url": "https://picsum.photos/seed/kr-recipe-52/640/400"
+  },
+  {
+    "id": 53,
+    "recipe_name": "감자국",
+    "ingredients": {
+      "required": [
+        16,
+        12,
+        63,
+        73
+      ],
+      "optional": [
+        14,
+        38,
+        79,
+        83
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 35,
+    "image_url": "https://picsum.photos/seed/kr-recipe-53/640/400"
+  },
+  {
+    "id": 54,
+    "recipe_name": "감자전",
+    "ingredients": {
+      "required": [
+        16,
+        5,
+        50
+      ],
+      "optional": [
+        14,
+        85,
+        80,
+        32
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 25,
+    "image_url": "https://picsum.photos/seed/kr-recipe-54/640/400"
+  },
+  {
+    "id": 55,
+    "recipe_name": "호박전",
+    "ingredients": {
+      "required": [
+        18,
+        5,
+        50
+      ],
+      "optional": [
+        14,
+        85,
+        80
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 20,
+    "image_url": "https://picsum.photos/seed/kr-recipe-55/640/400"
+  },
+  {
+    "id": 56,
+    "recipe_name": "김치전",
+    "ingredients": {
+      "required": [
+        94,
+        5,
+        50
+      ],
+      "optional": [
+        78,
+        14,
+        85,
+        32
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 20,
+    "image_url": "https://picsum.photos/seed/kr-recipe-56/640/400"
+  },
+  {
+    "id": 57,
+    "recipe_name": "해물파전",
+    "ingredients": {
+      "required": [
+        14,
+        5,
+        50,
+        62
+      ],
+      "optional": [
+        61,
+        32,
+        85,
+        78
+      ]
+    },
+    "difficulty": "어려움",
+    "estimated_time": 25,
+    "image_url": "https://picsum.photos/seed/kr-recipe-57/640/400"
+  },
+  {
+    "id": 58,
+    "recipe_name": "깻잎장아찌",
+    "ingredients": {
+      "required": [
+        30,
+        72,
+        81
+      ],
+      "optional": [
+        32,
+        78,
+        36,
+        86
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 30,
+    "image_url": "https://picsum.photos/seed/kr-recipe-58/640/400"
+  },
+  {
+    "id": 59,
+    "recipe_name": "오이무침",
+    "ingredients": {
+      "required": [
+        19,
+        82,
+        76
+      ],
+      "optional": [
+        78,
+        32,
+        81,
+        14
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-59/640/400"
+  },
+  {
+    "id": 60,
+    "recipe_name": "무생채",
+    "ingredients": {
+      "required": [
+        12,
+        82,
+        76
+      ],
+      "optional": [
+        78,
+        32,
+        14,
+        81
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-60/640/400"
+  },
+  {
+    "id": 61,
+    "recipe_name": "콩나물무침",
+    "ingredients": {
+      "required": [
+        26,
+        83,
+        80
+      ],
+      "optional": [
+        14,
+        32,
+        76,
+        78
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-61/640/400"
+  },
+  {
+    "id": 62,
+    "recipe_name": "숙주나물무침",
+    "ingredients": {
+      "required": [
+        27,
+        83,
+        72
+      ],
+      "optional": [
+        14,
+        32,
+        78,
+        81
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 10,
+    "image_url": "https://picsum.photos/seed/kr-recipe-62/640/400"
+  },
+  {
+    "id": 63,
+    "recipe_name": "시금치나물",
+    "ingredients": {
+      "required": [
+        25,
+        83,
+        80
+      ],
+      "optional": [
+        36,
+        79,
+        14
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 12,
+    "image_url": "https://picsum.photos/seed/kr-recipe-63/640/400"
+  },
+  {
+    "id": 64,
+    "recipe_name": "미나리무침",
+    "ingredients": {
+      "required": [
+        28,
+        76,
+        82
+      ],
+      "optional": [
+        78,
+        32,
+        14,
+        81
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 10,
+    "image_url": "https://picsum.photos/seed/kr-recipe-64/640/400"
+  },
+  {
+    "id": 65,
+    "recipe_name": "브로콜리볶음",
+    "ingredients": {
+      "required": [
+        24,
+        85,
+        80
+      ],
+      "optional": [
+        79,
+        14,
+        36,
+        72
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 12,
+    "image_url": "https://picsum.photos/seed/kr-recipe-65/640/400"
+  },
+  {
+    "id": 66,
+    "recipe_name": "양배추쌈",
+    "ingredients": {
+      "required": [
+        23,
+        40,
+        77
+      ],
+      "optional": [
+        29,
+        94,
+        13,
+        14,
+        83
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 25,
+    "image_url": "https://picsum.photos/seed/kr-recipe-66/640/400"
+  },
+  {
+    "id": 67,
+    "recipe_name": "쌈밥",
+    "ingredients": {
+      "required": [
+        1,
+        29,
+        77,
+        94
+      ],
+      "optional": [
+        40,
+        43,
+        30,
+        66,
+        83
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 40,
+    "image_url": "https://picsum.photos/seed/kr-recipe-67/640/400"
+  },
+  {
+    "id": 68,
+    "recipe_name": "토마토달걀볶음",
+    "ingredients": {
+      "required": [
+        20,
+        50,
+        85
+      ],
+      "optional": [
+        80,
+        14,
+        81,
+        73
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 12,
+    "image_url": "https://picsum.photos/seed/kr-recipe-68/640/400"
+  },
+  {
+    "id": 69,
+    "recipe_name": "가지볶음",
+    "ingredients": {
+      "required": [
+        22,
+        76,
+        85
+      ],
+      "optional": [
+        14,
+        81,
+        36,
+        93
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-69/640/400"
+  },
+  {
+    "id": 70,
+    "recipe_name": "애호박볶음",
+    "ingredients": {
+      "required": [
+        18,
+        50,
+        85
+      ],
+      "optional": [
+        80,
+        14,
+        72,
+        79
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 10,
+    "image_url": "https://picsum.photos/seed/kr-recipe-70/640/400"
+  },
+  {
+    "id": 71,
+    "recipe_name": "당근볶음",
+    "ingredients": {
+      "required": [
+        17,
+        85,
+        80
+      ],
+      "optional": [
+        81,
+        14,
+        79,
+        72
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 10,
+    "image_url": "https://picsum.photos/seed/kr-recipe-71/640/400"
+  },
+  {
+    "id": 72,
+    "recipe_name": "버섯볶음",
+    "ingredients": {
+      "required": [
+        33,
+        85,
+        72
+      ],
+      "optional": [
+        34,
+        35,
+        14,
+        81,
+        83
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 12,
+    "image_url": "https://picsum.photos/seed/kr-recipe-72/640/400"
+  },
+  {
+    "id": 73,
+    "recipe_name": "멸치볶음",
+    "ingredients": {
+      "required": [
+        63,
+        81,
+        85
+      ],
+      "optional": [
+        32,
+        78,
+        14,
+        36
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-73/640/400"
+  },
+  {
+    "id": 74,
+    "recipe_name": "어묵볶음",
+    "ingredients": {
+      "required": [
+        96,
+        76,
+        17
+      ],
+      "optional": [
+        14,
+        81,
+        85,
+        32,
+        78
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 12,
+    "image_url": "https://picsum.photos/seed/kr-recipe-74/640/400"
+  },
+  {
+    "id": 75,
+    "recipe_name": "김자반",
+    "ingredients": {
+      "required": [
+        66,
+        81,
+        85
+      ],
+      "optional": [
+        92,
+        78,
+        32,
+        14
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 20,
+    "image_url": "https://picsum.photos/seed/kr-recipe-75/640/400"
+  },
+  {
+    "id": 76,
+    "recipe_name": "김가루주먹밥",
+    "ingredients": {
+      "required": [
+        1,
+        100,
+        80
+      ],
+      "optional": [
+        52,
+        89,
+        15,
+        67
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 10,
+    "image_url": "https://picsum.photos/seed/kr-recipe-76/640/400"
+  },
+  {
+    "id": 77,
+    "recipe_name": "만두국",
+    "ingredients": {
+      "required": [
+        99,
+        7,
+        63,
+        14
+      ],
+      "optional": [
+        12,
+        50,
+        73,
+        83
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 25,
+    "image_url": "https://picsum.photos/seed/kr-recipe-77/640/400"
+  },
+  {
+    "id": 78,
+    "recipe_name": "칼국수",
+    "ingredients": {
+      "required": [
+        9,
+        63,
+        14
+      ],
+      "optional": [
+        12,
+        16,
+        38,
+        85,
+        32
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 35,
+    "image_url": "https://picsum.photos/seed/kr-recipe-78/640/400"
+  },
+  {
+    "id": 79,
+    "recipe_name": "잔치국수",
+    "ingredients": {
+      "required": [
+        7,
+        63,
+        12
+      ],
+      "optional": [
+        15,
+        50,
+        96,
+        73,
+        83
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 30,
+    "image_url": "https://picsum.photos/seed/kr-recipe-79/640/400"
+  },
+  {
+    "id": 80,
+    "recipe_name": "비빔국수",
+    "ingredients": {
+      "required": [
+        7,
+        76,
+        82
+      ],
+      "optional": [
+        50,
+        13,
+        19,
+        14,
+        81,
+        32
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-80/640/400"
+  },
+  {
+    "id": 81,
+    "recipe_name": "잡채",
+    "ingredients": {
+      "required": [
+        8,
+        38,
+        17,
+        72
+      ],
+      "optional": [
+        27,
+        61,
+        14,
+        83,
+        81,
+        86
+      ]
+    },
+    "difficulty": "어려움",
+    "estimated_time": 45,
+    "image_url": "https://picsum.photos/seed/kr-recipe-81/640/400"
+  },
+  {
+    "id": 82,
+    "recipe_name": "쫄면",
+    "ingredients": {
+      "required": [
+        10,
+        76,
+        78
+      ],
+      "optional": [
+        96,
+        14,
+        32,
+        81,
+        85
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-82/640/400"
+  },
+  {
+    "id": 83,
+    "recipe_name": "냉소면",
+    "ingredients": {
+      "required": [
+        7,
+        82,
+        73
+      ],
+      "optional": [
+        50,
+        19,
+        14,
+        61,
+        83
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-83/640/400"
+  },
+  {
+    "id": 84,
+    "recipe_name": "만두전골",
+    "ingredients": {
+      "required": [
+        99,
+        76,
+        98
+      ],
+      "optional": [
+        96,
+        14,
+        32,
+        81,
+        63
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 35,
+    "image_url": "https://picsum.photos/seed/kr-recipe-84/640/400"
+  },
+  {
+    "id": 85,
+    "recipe_name": "닭가슴살샐러드",
+    "ingredients": {
+      "required": [
+        44,
+        29,
+        20
+      ],
+      "optional": [
+        89,
+        19,
+        80,
+        52,
+        82
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 20,
+    "image_url": "https://picsum.photos/seed/kr-recipe-85/640/400"
+  },
+  {
+    "id": 86,
+    "recipe_name": "두부버터구이",
+    "ingredients": {
+      "required": [
+        55,
+        53,
+        85
+      ],
+      "optional": [
+        80,
+        79,
+        74,
+        83
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 10,
+    "image_url": "https://picsum.photos/seed/kr-recipe-86/640/400"
+  },
+  {
+    "id": 87,
+    "recipe_name": "팬케이크",
+    "ingredients": {
+      "required": [
+        4,
+        50,
+        51
+      ],
+      "optional": [
+        53,
+        81,
+        52,
+        69
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 20,
+    "image_url": "https://picsum.photos/seed/kr-recipe-87/640/400"
+  },
+  {
+    "id": 88,
+    "recipe_name": "스팸김치볶음밥",
+    "ingredients": {
+      "required": [
+        1,
+        68,
+        94,
+        85
+      ],
+      "optional": [
+        50,
+        14,
+        76,
+        81
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 12,
+    "image_url": "https://picsum.photos/seed/kr-recipe-88/640/400"
+  },
+  {
+    "id": 89,
+    "recipe_name": "옥수수스프",
+    "ingredients": {
+      "required": [
+        69,
+        51
+      ],
+      "optional": [
+        53,
+        80,
+        52,
+        81
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-89/640/400"
+  },
+  {
+    "id": 90,
+    "recipe_name": "햄감자조림",
+    "ingredients": {
+      "required": [
+        71,
+        16,
+        72
+      ],
+      "optional": [
+        13,
+        81,
+        85,
+        86
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 30,
+    "image_url": "https://picsum.photos/seed/kr-recipe-90/640/400"
+  },
+  {
+    "id": 91,
+    "recipe_name": "닭봉구이",
+    "ingredients": {
+      "required": [
+        46,
+        85,
+        80
+      ],
+      "optional": [
+        76,
+        78,
+        36,
+        93,
+        81
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 35,
+    "image_url": "https://picsum.photos/seed/kr-recipe-91/640/400"
+  },
+  {
+    "id": 92,
+    "recipe_name": "다진돼지고기볶음",
+    "ingredients": {
+      "required": [
+        49,
+        13,
+        72
+      ],
+      "optional": [
+        14,
+        81,
+        85,
+        93,
+        32
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 15,
+    "image_url": "https://picsum.photos/seed/kr-recipe-92/640/400"
+  },
+  {
+    "id": 93,
+    "recipe_name": "소고기스테이",
+    "ingredients": {
+      "required": [
+        42,
+        85,
+        80
+      ],
+      "optional": [
+        79,
+        36,
+        37,
+        83,
+        14
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 20,
+    "image_url": "https://picsum.photos/seed/kr-recipe-93/640/400"
+  },
+  {
+    "id": 94,
+    "recipe_name": "바지락칼국수",
+    "ingredients": {
+      "required": [
+        9,
+        62,
+        14
+      ],
+      "optional": [
+        63,
+        32,
+        78,
+        85,
+        73
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 30,
+    "image_url": "https://picsum.photos/seed/kr-recipe-94/640/400"
+  },
+  {
+    "id": 95,
+    "recipe_name": "파프리카볶음",
+    "ingredients": {
+      "required": [
+        21,
+        85,
+        80
+      ],
+      "optional": [
+        13,
+        79,
+        72,
+        81
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 10,
+    "image_url": "https://picsum.photos/seed/kr-recipe-95/640/400"
+  },
+  {
+    "id": 96,
+    "recipe_name": "양송이버터구이",
+    "ingredients": {
+      "required": [
+        35,
+        53,
+        85
+      ],
+      "optional": [
+        80,
+        79,
+        14,
+        72
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 10,
+    "image_url": "https://picsum.photos/seed/kr-recipe-96/640/400"
+  },
+  {
+    "id": 97,
+    "recipe_name": "팽이버섯전골",
+    "ingredients": {
+      "required": [
+        34,
+        63,
+        76
+      ],
+      "optional": [
+        14,
+        98,
+        96,
+        32,
+        81
+      ]
+    },
+    "difficulty": "보통",
+    "estimated_time": 30,
+    "image_url": "https://picsum.photos/seed/kr-recipe-97/640/400"
+  },
+  {
+    "id": 98,
+    "recipe_name": "청양고추절임",
+    "ingredients": {
+      "required": [
+        32,
+        82,
+        81
+      ],
+      "optional": [
+        72,
+        78,
+        36,
+        14
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 20,
+    "image_url": "https://picsum.photos/seed/kr-recipe-98/640/400"
+  },
+  {
+    "id": 99,
+    "recipe_name": "김치볶음",
+    "ingredients": {
+      "required": [
+        94,
+        85
+      ],
+      "optional": [
+        81,
+        76,
+        14,
+        78,
+        40
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 10,
+    "image_url": "https://picsum.photos/seed/kr-recipe-99/640/400"
+  },
+  {
+    "id": 100,
+    "recipe_name": "어묵라면",
+    "ingredients": {
+      "required": [
+        6,
+        96
+      ],
+      "optional": [
+        14,
+        50,
+        94,
+        32,
+        78
+      ]
+    },
+    "difficulty": "쉬움",
+    "estimated_time": 12,
+    "image_url": "https://picsum.photos/seed/kr-recipe-100/640/400"
+  }
+]
